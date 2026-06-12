@@ -1,5 +1,5 @@
 # AMR Governance in Bulgaria: Policy Feedback Analysis of the 2023 eRx Mandate
-## Capstone Research Project
+## Capstone Research Paper
 
 ## Overview
 This project investigates why antimicrobial resistance (AMR) remains persistently high in Bulgaria — one of the EU's highest-burden countries — and evaluates whether the 2023 mandatory electronic prescribing (eRx) reform is designed to address the governance failures driving resistance. Using Policy Feedback Theory (PFT) as an analytical framework, the study identifies three overlapping path-dependent feedback legacies (institutional capacity, socioeconomic barriers, and behavioral/governance norms) and tests their relative empirical importance through domain-specific regression models on EARS-Net surveillance data (2006–2023).
